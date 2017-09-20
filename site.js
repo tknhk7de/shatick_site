@@ -8,7 +8,7 @@ var windowW = window.innerWidth;
 var windowH = window.innerHeight;
 var isLoaded = false;
 var glitch = void 0;
-var imgSrc = 'http://www.larousse.fr/encyclopedie/data/images/1313802-La_tour_Eiffel.jpg';
+var imgSrc = 'https://wow.olympus.eu/webfile/img/1632/x=1024/oly_testwow_stage.jpg';
 
 function setup() {
     background(0);
