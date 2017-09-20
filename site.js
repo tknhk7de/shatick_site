@@ -8,7 +8,7 @@ var windowW = window.innerWidth;
 var windowH = window.innerHeight;
 var isLoaded = false;
 var glitch = void 0;
-var imgSrc = 'https://kotobank.jp/image/dictionary/daijisen/media/109364.jpg';
+var imgSrc = 'http://www.larousse.fr/encyclopedie/data/images/1313802-La_tour_Eiffel.jpg';
 
 function setup() {
     background(0);
