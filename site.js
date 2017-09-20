@@ -8,17 +8,7 @@ var windowW = window.innerWidth;
 var windowH = window.innerHeight;
 var isLoaded = false;
 var glitch = void 0;
-var imgSrc = 'https://www.infoidiomas.com/wp-content/uploads/test-de-japones.jpg';
-
-  var img = new Image();
-  img.crossOrigin = 'anonymous';
-  img.src = imgSrc;
-  img.onload = function() {
-    img‚ğˆø”‚É‚µ‚ÄƒCƒ[ƒW‚Ì“Ç‚İ‚İ
-  };
-
-
-';
+var imgSrc = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQwjW7K8UxWF6BVoTq4jXXEAfJU9DLnyBHWrMqTQ5oYXgRxudUw';
 
 function setup() {
     background(0);
