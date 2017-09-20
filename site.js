@@ -8,7 +8,7 @@ var windowW = window.innerWidth;
 var windowH = window.innerHeight;
 var isLoaded = false;
 var glitch = void 0;
-var imgSrc = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQwjW7K8UxWF6BVoTq4jXXEAfJU9DLnyBHWrMqTQ5oYXgRxudUw';
+var imgSrc = 'https://kotobank.jp/image/dictionary/daijisen/media/109364.jpg';
 
 function setup() {
     background(0);
