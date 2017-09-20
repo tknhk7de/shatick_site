@@ -8,7 +8,7 @@ var windowW = window.innerWidth;
 var windowH = window.innerHeight;
 var isLoaded = false;
 var glitch = void 0;
-var imgSrc = 'https://wow.olympus.eu/webfile/img/1632/x=1024/oly_testwow_stage.jpg';
+var imgSrc = 'https://www.infoidiomas.com/wp-content/uploads/test-de-japones.jpg';
 
 function setup() {
     background(0);
